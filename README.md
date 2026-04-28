@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dallakotikohinoor@gmail.com**
 
-- ⚡ Fun fact **I think I am a slow learner but a learner**
+- ⚡ Fun fact : **I think I am a slow learner but a learner**
 
 <h3 align="left">Connect with me:</h3>
 <table>

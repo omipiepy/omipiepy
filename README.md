@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kohinoor Dallakoti</h1>
 <h3 align="center">Passionate about Web Development and AI/ML</h3>
 
-- 🌱 I’m currently learning **MERN Stack Development**
+- 🌱 I’m currently learning **AI/ML**
 
 - 👯 I’m looking to collaborate on **AI/ML**
 
 - 📫 How to reach me **dallakotikohinoor@gmail.com**
 
-- ⚡ Fun fact **I think I am a learner**
+- ⚡ Fun fact **I think I am a slow learner but a learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

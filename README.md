@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <table>
   <tr>
-<td><a href="https://www.linkedin.com/in/kohinoor-dallakoti-2a838730a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kohinoor dallakoti" height="30" width="40" /></a></td>
+<td><a href="https://www.linkedin.com/in/kohinoor-dallakoti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kohinoor dallakoti" height="30" width="40" /></a></td>
 <td><a href="https://fb.com/kohinoor dallakoti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kohinoor dallakoti" height="30" width="40" /></a></td>
 </tr>
 </table>

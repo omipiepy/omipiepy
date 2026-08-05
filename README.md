@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dallakotikohinoor@gmail.com**
 
-- ⚡ Fun fact : **I think I am vibe coder. I can code anything with claude.**
+- ⚡ Fun fact : **I am vibe coder. I can code anything with claude.**
 
 <h3 align="left">Connect with me:</h3>
 <table>

@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kohinoor Dallakoti</h1>
 <h3 align="center">Passionate about Web Development and AI/ML</h3>
 
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 I’m currently learning **Full Stack Development and AI/Ml**
 
-- 👯 I’m looking to collaborate on **AI/ML**
+- 👯 I’m looking to collaborate on **Full Stack Development**
 
 - 📫 How to reach me **dallakotikohinoor@gmail.com**
 

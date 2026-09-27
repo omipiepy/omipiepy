@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Full Stack Development and AI/Ml**
 
-- 👯 I’m looking to collaborate on **Full Stack Development**
+- 👯 I’m looking to collaborate on **AI/ML or Full Stack Development**
 
 - 📫 How to reach me **dallakotikohinoor@gmail.com**
 
-- ⚡ Fun fact : **I am vibe coder. I can code anything with claude.**
+- ⚡ Fun fact : **I am a fast learner.**
 
 <h3 align="left">Connect with me:</h3>
 <table>
